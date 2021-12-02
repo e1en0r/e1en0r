@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Elenor
+- 🔗 Most of my projects are developed over in the [@phork](https://github.com/phork) group
+- 👀 I’m interested in React, TypeScript and front end development
+- 🌱 I’m currently working on [Phork/it](https://phorkit.phork.org) - a React UI kit
+- ⌛ In the past I was really into PHP and framework development
+- 📫 You can contact me over at my website [elenor.net](https://elenor.net)
